@@ -1,0 +1,23 @@
+Factor,Category,Churn_Rate
+Contract,Month-to-month,42.71
+Contract,One year,11.27
+Contract,Two year,2.83
+PaymentMethod,Bank transfer (automatic),16.71
+PaymentMethod,Credit card (automatic),15.24
+PaymentMethod,Electronic check,45.29
+PaymentMethod,Mailed check,19.11
+InternetService,DSL,18.96
+InternetService,Fiber optic,41.89
+InternetService,No,7.4
+SeniorCitizen,0,23.61
+SeniorCitizen,1,41.68
+Partner,No,32.96
+Partner,Yes,19.66
+Dependents,No,31.28
+Dependents,Yes,15.45
+OnlineSecurity,No,41.77
+OnlineSecurity,No internet service,7.4
+OnlineSecurity,Yes,14.61
+TechSupport,No,41.64
+TechSupport,No internet service,7.4
+TechSupport,Yes,15.17
